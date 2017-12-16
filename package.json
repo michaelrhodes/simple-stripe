@@ -1,18 +1,13 @@
 {
   "name": "simple-stripe",
-  "version": "0.0.0",
+  "author": "Michael Rhodes",
   "description": "an isomorphic client for the stripe api",
+  "version": "1.0.0",
   "main": "node.js",
   "browser": "browser.js",
+  "license": "MIT",
   "dependencies": {
     "form-urlencoded": "~2.0.4",
     "simple-get": "~2.7.0"
-  },
-  "keywords": [
-    "stripe",
-    "browser",
-    "node"
-  ],
-  "author": "Michael Rhodes",
-  "license": "MIT"
+  }
 }
